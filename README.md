@@ -1,8 +1,5 @@
 # SpongeBob Endless Runner
 
-![Java](https://img.shields.io)
-![NetBeans](https://img.shields.io)
-
 A completed solo school project featuring a SpongeBob-themed endless runner. This game was built from the ground up to demonstrate core Object-Oriented Programming (OOP) principles, including inheritance, encapsulation, and modular state management.
 
 ## Game Features
